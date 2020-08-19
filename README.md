@@ -1,12 +1,12 @@
 # challenge-prework-03
+
 Recap: Curso de Introducción a la Terminal y Línea de Comandos
 
 ## Retos:
 
 1. Screenshot de evidencia de 15+ retos en cmdchallenge.com
 
-<Imagen_reto_1>
-
+![Solution](images/CLI-completed.jpg)
 
 ## Pasos a seguir:
 
