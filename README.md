@@ -5,7 +5,7 @@ Recap: Curso de Introducción a la Terminal y Línea de Comandos
 
 1. Screenshot de evidencia de 15+ retos en cmdchallenge.com
 
-<Imagen_reto_1>
+![cmdchallenge](img/Screenshot_cmd_challenge.jpg)
 
 
 ## Pasos a seguir:
