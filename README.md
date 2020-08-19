@@ -7,6 +7,8 @@ Recap: Curso de Introducción a la Terminal y Línea de Comandos
 
 <Imagen_reto_1>
 
+![alt text](https://raw.githubusercontent.com/albertusortiz/challenge-prework-03/master/Imagen_reto_1.png)
+
 
 ## Pasos a seguir:
 
