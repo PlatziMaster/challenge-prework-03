@@ -5,13 +5,13 @@ Recap: Curso de Introducción a la Terminal y Línea de Comandos
 
 1. Screenshot de evidencia de 15+ retos en cmdchallenge.com
 
-<Imagen_reto_1>
+![](https://github.com/fjarauj0/challenge-prework-03/blob/master/terminal.PNG?raw=true)
 
 
 ## Pasos a seguir:
 
 1. Hacer un "Fork" de este proyecto.
-2. Revolver los retos propuestos en cmdchallenge.com.
+2. Resolver los retos propuestos en cmdchallenge.com.
 3. Edita este documento "README.md" con un screenshot mostrando la solucion a tus retos.
 4. Crear un Pull Request hacia este repositorio.
 
