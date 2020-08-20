@@ -15,6 +15,10 @@ Recap: Curso de Introducción a la Terminal y Línea de Comandos
 3. Edita este documento "README.md" con un screenshot mostrando la solucion a tus retos.
 4. Crear un Pull Request hacia este repositorio.
 
+## Reto Solucionado
+
+[Challange Commandline](./image/challange.png)
+
 ## ¿Cómo contribuir?
 
 Si quieres agregar o mejorar algo, te invito a colaborar directamente en este repositorio: [challenge-prework-03](https://github.com/platzimaster/challenge-prework-03/)
