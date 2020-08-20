@@ -5,7 +5,10 @@ Recap: Curso de Introducción a la Terminal y Línea de Comandos
 
 1. Screenshot de evidencia de 15+ retos en cmdchallenge.com
 
-<Imagen_reto_1>
+> Nota: El resultado que se muestra en el screenshot de abajo pertenece al reto #24. Ya no pude resolver el que seguia. 
+(En la carpeta *images* de este repositorio contiene la captura de cada uno de los retos que logre resolver)
+
+![Ultimo reto terminado](./images/last.png)
 
 
 ## Pasos a seguir:
