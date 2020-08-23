@@ -1,9 +1,9 @@
-# challenge-prework-03
+/d/programacion/retosPMaster/challenge-prework-03/retoplatzimaster.png
 Recap: Curso de Introducción a la Terminal y Línea de Comandos
 
 ## Retos:
 
-1. Screenshot de evidencia de 15+ retos en cmdchallenge.com
+1.aqui se encuentra el archivo del reto. -> /d/programacion/retosPMaster/challenge-prework-03/retoplatzimaster.png
 
 <Imagen_reto_1>
 
